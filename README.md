@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Junior Full Stack Developer
+I'm Full Stack Developer
 
 Ask me about Javascript
 
