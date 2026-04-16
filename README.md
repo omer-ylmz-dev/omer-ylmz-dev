@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Omer Yilmaz. I'm Full-Stack developer with a passion for turning ideas into clean, efficient, and modern web solutions. Constantly learning, always building.
-
+I’m Omer Yilmaz, a Full-Stack developer with a focus on creating clean and efficient web solutions. In my recent experience, I worked on both backend and frontend systems, where I took responsibility for UI design, building solid system architectures, and improving performance. I focus on writing organized code to ensure stability and solve technical problems effectively. I am passionate about turning ideas into well-structured, modern projects by applying the practical skills I have gained.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omrylmz) 
